@@ -125,3 +125,20 @@ To run it, open Anaconda Prompt and type:
     cd %USERPROFILE%\Desktop\ZED_Project
     python hello_zed.py
     ```
+## Part 6: Live Depth View:
+
+Before writing more Python, let’s verify the camera's 3D capabilities using the tools you already installed.
+
+Press Windows Key.
+
+Type ZED Depth Viewer and open it.
+
+What to look for:
+
+You should see a live video feed.
+
+Click on "Depth" (top left) or "3D View".
+
+Move your hand in front of the camera. You should see it glow different colors based on how close it is (Red = Close, Blue = Far).
+
+If this works, your hardware is 100% perfect. Close the app and let's code
