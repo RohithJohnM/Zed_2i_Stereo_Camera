@@ -69,11 +69,11 @@ Now we create the "safe bubble" (Conda Environment) for your project.
 1.  Press the **Windows Key**, type `Anaconda Prompt`, and press **Enter**.
 2.  You will see a black window. Type the following commands one by one (press Enter after each):
 
-### Command A: Create the environment**
+### Command A: Create the environment
 (We specifically ask for Python 3.10, which is compatible with ZED)
 ```bash
 conda create -n zed_env python=3.10 -y
-
+```
 **Command B: Activate the environment (This enters the bubble. You must do this every time you work!)**
 
 In your Anaconda Prompt, run:
@@ -142,3 +142,4 @@ Click on "Depth" (top left) or "3D View".
 Move your hand in front of the camera. You should see it glow different colors based on how close it is (Red = Close, Blue = Far).
 
 If this works, your hardware is 100% perfect. Close the app and let's code
+
