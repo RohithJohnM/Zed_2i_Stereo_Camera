@@ -1,4 +1,4 @@
-````markdown
+
 # ZED 2i Camera Setup Guide: From Zero to Hero 🤖
 
 Comprehensive setup guide for ZED 2i camera with CUDA, PyTorch, and YOLO integration on Windows.
